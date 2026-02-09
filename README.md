@@ -4,6 +4,17 @@
 
 This project is a powerful **Streamlit** application orchestrated by **LangChain** and **LangGraph**. It replaces traditional vector operations with a local **FAISS** index for privacy and speed, and utilizes **Groq** for high-speed LLM inference.
 
+---
+
+## 🌐 Live Deployment
+
+**Try it now:**
+- 🔗 **Public URL**: [https://6kx1hnr4-8501.inc1.devtunnels.ms/](https://6kx1hnr4-8501.inc1.devtunnels.ms/)
+- 🤗 **Hugging Face Spaces**: [https://huggingface.co/spaces/kartheekarepalle/GENAI-Intelligence-Studio](https://huggingface.co/spaces/kartheekarepalle/GENAI-Intelligence-Studio)
+- 📦 **GitHub Repository**: [https://github.com/kartheekarepalle/GENAI-Intelligence-Studio](https://github.com/kartheekarepalle/GENAI-Intelligence-Studio)
+
+---
+
 ## 🚀 Key Brain Modes
 
 The application features 4 distinct "Brain Modes", each powered by specialized autonomous agents:
