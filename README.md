@@ -10,7 +10,6 @@ This project is a powerful **Streamlit** application orchestrated by **LangChain
 
 **Try it now:**
 - 🔗 **Public URL**: [https://6kx1hnr4-8501.inc1.devtunnels.ms/](https://6kx1hnr4-8501.inc1.devtunnels.ms/)
-- 🤗 **Hugging Face Spaces**: [https://huggingface.co/spaces/kartheekarepalle/GENAI-Intelligence-Studio](https://huggingface.co/spaces/kartheekarepalle/GENAI-Intelligence-Studio)
 - 📦 **GitHub Repository**: [https://github.com/kartheekarepalle/GENAI-Intelligence-Studio](https://github.com/kartheekarepalle/GENAI-Intelligence-Studio)
 
 ---
